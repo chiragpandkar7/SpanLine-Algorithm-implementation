@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  BSpline.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library D:\Projects\ChiragWorkspace\Visualize\x64\Debug\BSpline.lib and object D:\Projects\ChiragWorkspace\Visualize\x64\Debug\BSpline.exp
+  BSpline.vcxproj -> D:\Projects\ChiragWorkspace\Visualize\x64\Debug\BSpline.dll

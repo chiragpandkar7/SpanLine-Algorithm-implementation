@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Geometry.cpp
+  Line.cpp
+  Point2D.cpp
+  Generating Code...
+     Creating library D:\Projects\ChiragWorkspace\Visualize\x64\Debug\Geometry.lib and object D:\Projects\ChiragWorkspace\Visualize\x64\Debug\Geometry.exp
+  Geometry.vcxproj -> D:\Projects\ChiragWorkspace\Visualize\x64\Debug\Geometry.dll
